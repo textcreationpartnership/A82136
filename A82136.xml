@@ -1,0 +1,214 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The declaration of the counties of Yorke and Lancaster; concerning the Kings Maiestie, and both Houses of Parliament, and their unanimous resolutions, touching the proceedings of the Essex, Surrey, and Kentish-men. As also touching the Northern Army. With, the proceedings of Sir Marmaduke Langdale, and his advance from Barwick, and joyning with a body consisting of 8000. in Westmerland. And the votes of the House of Commons, concerning a treaty with His Majesty, and the manner thereof.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82136</idno>
+            <idno type="STC">Wing D660</idno>
+            <idno type="STC">Thomason E444_12</idno>
+            <idno type="STC">ESTC R204763</idno>
+            <idno type="EEBO-CITATION">99864225</idno>
+            <idno type="PROQUEST">99864225</idno>
+            <idno type="VID">161736</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82136)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161736)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 70:E444[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The declaration of the counties of Yorke and Lancaster; concerning the Kings Maiestie, and both Houses of Parliament, and their unanimous resolutions, touching the proceedings of the Essex, Surrey, and Kentish-men. As also touching the Northern Army. With, the proceedings of Sir Marmaduke Langdale, and his advance from Barwick, and joyning with a body consisting of 8000. in Westmerland. And the votes of the House of Commons, concerning a treaty with His Majesty, and the manner thereof.</title>
+                  <author>Langdale, Marmaduke Langdale, Baron, 1598?-1661.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for W.R.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "May 26".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>York (England) --  History --  17th century --  Early works to 1800.</term>
+               <term>Lancaster (England) --  History --  17th century --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161736:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 97 -->
+            <p>THE DECLARATION OF THE COUNTIES OF YORKE AND LANCASTER, CONCERNING, The KINGS MAIESTIE, and both Houſes of PARLIAMENT, and their unanimous Re<g ref="char:EOLhyphen"/>ſolutions, touching the proceedings of the <hi>Eſſex, Surrey,</hi> and <hi>Kentiſh-men.</hi> As alſo touching the <hi>Northern</hi> Army.</p>
+            <p>WITH, The proceedings of Sir MARMADUKE LANG<g ref="char:EOLhyphen"/>DALE, and his advance from BARWICK, and joyning with a body conſiſting of 8000. in WESTMERLAND.</p>
+            <p>AND, The Votes of the Houſe of Commons concer<g ref="char:EOLhyphen"/>ning a Treaty with His <hi>Majeſty,</hi> and the manner thereof.</p>
+            <p>LONDON, printed for <hi>W.R.</hi> 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:161736:2"/>
+            <!-- PDF PAGE 98 -->
+            <pb n="1" facs="tcp:161736:2"/>
+            <!-- PDF PAGE 98 -->
+            <head>AN EXACT RELATION OF THE PROCEEDINGS OF The KENTISH Men.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Am ſorry that I have no better newes to ſalute you with, then our ſad diviſions, by which we are much diſtracted, you may make as ſlight of it as you will in <hi>London,</hi> but I can aſſure you, I feare the con<g ref="char:EOLhyphen"/>cluſion will carry ſorrow enough.</p>
+            <p>The Petition is dayly ſigned by additionall hands, the number is great that have joyned in it.</p>
+            <p>Since their ſeiſing of <hi>Rocheſter,</hi> and the Magazine, (which it was thought had been well over on the laſt
+<pb n="2" facs="tcp:161736:3"/>
+               <!-- PDF PAGE 99 -->
+Lords day at night, and that they would have been ſa<g ref="char:EOLhyphen"/>tisfied) they have increaſed, divers, both Gentlemen, Servants, Souldiers, and men of all ſorts come in; and ſtand upon their defence.</p>
+            <p>There are alſo divers others, gathered at <hi>Maydſtone,</hi> and in ſeverall other places of this County. And ma<g ref="char:EOLhyphen"/>ny or them are armed.</p>
+            <p>They ſay that they will have the King to come to <hi>London,</hi> and a Treaty. And the Army of Sectaries (as they call them) disbanded.</p>
+            <p>They have ſeized on a packet of Letters, that came from the Committee of the N<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>vy; and other Letters that were ſent from the Vice-Admirall <hi>Rainsborough,</hi> to the Parliament, cauſed them to be opened, and read them; and delivered many of the Letters back again.</p>
+            <p>They ſtop divers p<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſengers, and examine them, but let them goe again, without doing them hurt.</p>
+            <p>But for Souldiers they put all out of the Country, and permit none except only ſuch as comply with them.</p>
+            <p>And they have prevailed ſo fayre with the Horſemen of the Country, that they are almoſt all the Troope gon in to joyn with them. And the Trained Bands are too cold to oppoſe them. And they will grow now (for ought I ſee) too numerous, if ſpeedy courſe be not <gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aken.</p>
+            <p>They intend their randezvous, as is given out in theſe parts, next week at <hi>Black heath,</hi> and the Com<g ref="char:EOLhyphen"/>mittee know not what to doe, nor where to ſit in ſafty. Upon the rumor of Prince <hi>Charles</hi> his being come to <hi>Sa<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wich,</hi> (which was at firſt beleeved, and many labour ſtill that it may carry credence) many came in out of a pretended affection to them, and it was rumoured that
+<pb n="3" facs="tcp:161736:3"/>
+               <!-- PDF PAGE 99 -->
+he was come over to joyn with them to releaſe the King, and bring him ſafe to <hi>London.</hi>
+            </p>
+            <p>But we are ſince ſatisfied that it is not Prince <hi>Charles</hi> but a poore raſcally fellow, not fit for Gentlemens company, The Officer of the ſhip that caried the Prince away, was to ſee him, and ſaying he was not the Prince, the fellow tould the Mayor that hee came to kill him, and deſired he might be ſecured, which was done accordingly, and others are committed alſo for ſaying that he is not the Prince.</p>
+            <p>A great deale of money is ſent in by ſeverall perſons of the County to him, And he fares like a Prince, And ſtill ſtands ſtifly in it, that he is prince <hi>Charles.</hi> Hee cam<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hither with poore cloathes, and a courſe dirty ſhirt, but he had other apparrell provided preſently.</p>
+            <p>If the Parliament ſent for him, I know not whether thoſe who are riſen in this County will let him goe, for (ſo farre as I can underſtand) he was appointed by the Royaliſts, to encourage the Country, and joyne with them to diſturbe the Parliament.</p>
+            <p>There are in <hi>Rocheſter,</hi> and the parts hereabouts (I doe verily beleeve) at the leaſt a thouſand that are riſen, beſides their intereſt in ſome Sea-men; and others at <hi>Maydstone,</hi> and other parts.</p>
+            <p>Here are aboundance of Ordinance, and many ſhips, a great number of Armes, much powder in the Ships, the Soveraigne neer, if ſome ſpeedy courſe be not taken herein, it may be repented when it is too late. God ſend us all well ſetled.</p>
+            <closer>
+               <dateline>Chattum <date>May 23. 1648.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="4" facs="tcp:161736:4"/>
+            <!-- PDF PAGE 100 -->
+            <head>A Declaration of the Counties of Yorke and Lancaſter.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>HEre hath been ſeverall meetings in theſe parts, and the Inhabitants of the County, have unanimouſly declared, that they will ſtand firme to their firſt princi<g ref="char:EOLhyphen"/>ples, for the defence of King and Parliament, and that they will uſe their utmoſt endeavours, for the preſerva<g ref="char:EOLhyphen"/>tion of their peace and liberties, and that they will op<g ref="char:EOLhyphen"/>poſe all forces whatſoever, that ſhall attempt the ob<g ref="char:EOLhyphen"/>ſtructing thereof. We heare alſo that the Weſt-Riding of the County of <hi>York,</hi> have declared to the ſame effect, and that they are reſolved to proceede in purſuance thereof. Here is no little admiration of the proceedings of the <hi>Eſſex, Surrey,</hi> and <hi>Kentiſh</hi> men; but notwithſtan<g ref="char:EOLhyphen"/>ding all which, the well affected party are reſolved to maintaine their firſt grounds and principles. We heare that the Parliament of <hi>Scotland</hi> adjourned the 11. In<g ref="char:EOLhyphen"/>ſtant. D <hi>Hamilton,</hi> &amp;c. are gone into their ſeverall Prin<g ref="char:EOLhyphen"/>cipalities to raiſe men. Forty daies pay at the Randez<g ref="char:EOLhyphen"/>vouz, and then ſhift for themſelves. It continues that Fife and Angus are as reſolute to give non aſſiſtance (as the honeſt Zealanders are againſt the peace with <hi>Spain</hi>) and will not raiſe one man, whereupon it was ordained that every footeman that refuſed ſhould pay 10. l. &amp; eve<g ref="char:EOLhyphen"/>ry one charged with a horſe refuſing, 20. l. whether <hi>Scots</hi> or <hi>Sterling</hi> we know not. They talke of raiſing the 4<hi rend="sup">th</hi> man through the Kingdom. A liſt of all the Officers in<g ref="char:EOLhyphen"/>tended for the Scots expedition might be inſerted; but untill its known who wil hold, its no great matter, Iune 1. the Parliament ſits, and by that time their Army is to
+<pb n="5" facs="tcp:161736:4"/>
+               <!-- PDF PAGE 100 -->
+be ready, at leaſt they give out ſo, to make you come off from your high demands of the Kings Majeſtie. The 11. Sir <hi>Marmaduke Langdale,</hi> with about 160. horſe went from <hi>Barwick,</hi> all along the Scottiſh ſide of Tweed to Carlile, neither hurting, nor was hurt; leaving in <hi>Bar<g ref="char:EOLhyphen"/>wick</hi> only 500. foot: He is to joyne with Sir <hi>Phillip Muſ<g ref="char:EOLhyphen"/>graves</hi> forces in Cumberland &amp; Weſtmerland, who are already 8000. which with Sir <hi>Marmadukes</hi> will make as great an Army as was in Wales, and no doubt ſtand to<g ref="char:EOLhyphen"/>gether; for Sir <hi>Philip</hi> is ſo popular, that men fl<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cks to him from thoſe par<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, and all about; he doth what he pleaſeth yet. The Sheriffe of the County is fled to S. For<g ref="char:EOLhyphen"/>brits Iſland (which is ſir <hi>Watfort Lawſons</hi>) with the Ma<g ref="char:EOLhyphen"/>gazine, where alſo is 20 p<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eces of Ordina<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ce formerly removed from <hi>Carliſle;</hi> there is no paſſing to the Iſland but by B<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, the water being 5. or 6. fathom deepe, and they have taken the Boat with them, yet its b<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lieved they will one way or other gain it before reliefe can come; the Sheriffe hath ſent hither for reliefe, but how we ſhall be able to ſend it [ſo long are you before you ſend any to us] we know not. The newes of <hi>Laughorns</hi> defeat came ſeaſonably to thoſe parts, not only to raiſe the ſpirits of the Parl. friends, but to daunt the diſaffe<g ref="char:EOLhyphen"/>cted, which was declared with Thanks in Pulpits; with ringing of bels after, and other expreſſions of joy. We are alſo comforted a little by the reſolutions of Lanca<g ref="char:EOLhyphen"/>ſhire, who have no minde to let in any of the <hi>Muſgrave</hi> or <hi>Langdale</hi> party, and for that end have made good all their ſtraits and paſſages.</p>
+            <p>They of <hi>Barwick</hi> have put men into Hagerſton Tower. The County of Northumberland is indifferent quiet having no enemy in Field. Two Troopes of horſe lie at
+<pb n="6" facs="tcp:161736:5"/>
+               <!-- PDF PAGE 101 -->
+Anwick, and two Companies of Foot; Capt. <hi>Pie</hi> is in <hi>Warkworth Caſtle</hi> with a conſiderable force: <hi>Cartington</hi> being not tenable, the men in it were called of, and the houſe diſmantled: the Royall party had a deſign upon Hartle-Poole but were prevented; and we have Garriſo<g ref="char:EOLhyphen"/>ned it. Mr. <hi>Barwiſe,</hi> &amp; Mr. <hi>Cholmſey</hi> are priſoners in <hi>Carlile</hi> ſtill Mrs. <hi>Barwiſe</hi> and the Sheriffs wife are come on foot hither, being plundered of all: this Town wil not be got to act for Par. what ever they may againſt it. The enemy begin their old way of plundering and where ever they find any Miniſters put in by Parl. they leave them as bare as they can, being reſolved if ever it lies in their way to pay that Tribe to the full. The papiſts riſe alſo in all places, and though they can have no command, yet they will be Voluntiers. There is 4 Regiments of horſe to be raiſed in theſe parts, but if forces come not with the Gen. to encourage the Countries, they will not dare to proceed with any vigour. Col-<hi>Charles Vane,</hi> ſon of Sir. <hi>Hen. Vane</hi> raiſeth a Regiment of horſe, and ſecures Rabie Caſtle, he hath 4 good Troops already, The great com<g ref="char:EOLhyphen"/>fort and ſupport of the Parliaments friends in all theſe parts, by our Governours comming, is wonderfull; and truly ſo honeſtly and reſolutely doth he carry himſelf, that if forces once come, theres no doubt many will ſhew their good affection, that now mean it, but think it not diſcretion to ſhew is.</p>
+            <p>The Commons conſidered of a Treaty with his Ma<g ref="char:EOLhyphen"/>jeſtie, and voted, That if he grant the Militia, ſettle Re<g ref="char:EOLhyphen"/>ligion, and recall all Proclamations and Declarations a<g ref="char:EOLhyphen"/>gainſt them, they will treat with him for other things.</p>
+            <p>Collonel <hi>Whaleys</hi> Regiment is commanded back from the North, and are to quarter about <hi>Staines.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <p>Imprimatur</p>
+            <closer>
+               <signed>G. M</signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </back>
+   </text>
+</TEI>
